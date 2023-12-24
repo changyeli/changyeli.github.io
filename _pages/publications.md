@@ -5,18 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications on [Google Scholar](https://scholar.google.com/citations?user=YK4Z9jMAAAAJ&hl=en&authuser=2)
+For most recent publication records, please check on [Google Scholar](https://scholar.google.com/citations?user=YK4Z9jMAAAAJ&hl=en&authuser=2)
 
-## Journal Paper
+## Selected Publications
 
-Guo, Y., **Li, C.**, Roan, C., Pakhomov, S., & Cohen, T. (2021).  Crossing the “Cookie Theft” Corpus Chasm: Applying What BERT Learns From Outside Data to the ADReSS Challenge Dementia Detection Task. *Frontiers in Computer Science*, *3*, 26. [link](https://www.frontiersin.org/articles/10.3389/fcomp.2021.642517/full)
+### Journal Paper
 
-## Conference Paper
+**Li, C.**, Solinsky, J., Cohen T., & Pakhomov, S. (2023). A curious case of retrogenesis in language: Automated analysis of language patterns observed in dementia patients and young children. *Neuroscience Informatics* [preprint](https://doi.org/10.1016/j.neuri.2023.100155)
 
-**Changye Li**, Trevor Cohen, and Serguei V. S. Pakhomov. 2022. The Far Side of Failure: Investigating the Impact of Speech Recognition Errors on Subsequent Dementia Classification. In *Machine Learning for Health (ML4H) symposium, NeurIPS* [preprint](https://arxiv.org/abs/2211.07430)][[code](https://github.com/LinguisticAnomalies/paradox-asr)]
 
-**Changye Li**, David Knopman, Weizhe Xu, and Serguei V. S. Pakhomov. 2022. GPT-D: Inducing Dementia-related Linguistic Anomalies by Deliberate Degradation of Artificial Neural Language Models. In *Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics* [[preprint](https://arxiv.org/abs/2203.13397)][[code](https://github.com/LinguisticAnomalies/hammer-nets)]
+Guo, Y., **Li, C.**, Roan, C., Pakhomov, S., & Cohen, T. (2021). Crossing the “Cookie Theft” corpus chasm: applying what BERT learns from outside data to the ADReSS challenge dementia detection task. *Frontiers in Computer Science, 3*, 642517. [paper](https://www.frontiersin.org/articles/10.3389/fcomp.2021.642517/full)
 
-Yifan Li, **Changye Li**, Gavin Bart, Rui Zhang. (2020). Identifying and predicting risk factors of potential problem opioid use in chronic noncancer pain patients using electronic health records. *AMIA*
+### Conference Paper
 
-**Changye Li**, Zachary Levonian, Haiwei Ma, and Svetlana Yarosh. 2018. Condition Unknown: Predicting Patients' Health Conditions in an Online Health Community. In Companion of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW '18). Association for Computing Machinery, New York, NY, USA, 281–284. [DOI](https://doi.org/10.1145/3272973.3274075)
+**Li, C.**, Xu, W., Cohen, T., Michalowski, M., & Pakhomov, S. (2023). TRESTLE: Toolkit for Reproducible Execution of Speech, Text and Language Experiments. AMIA Summits on Translational Science Proceedings, 2023, 360.
+
+
+**Li, C.**, Knopman, D., Xu, W., Cohen, T., & Pakhomov, S. (2022, May). GPT-D: Inducing Dementia-related Linguistic Anomalies by Deliberate Degradation of Artificial Neural Language Models. In *Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)* (pp. 1866-1877). [[paper](https://aclanthology.org/2022.acl-long.131/)][[code](https://github.com/LinguisticAnomalies/hammer-nets)]
