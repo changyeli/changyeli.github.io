@@ -14,6 +14,8 @@ I'm on job market this year! I'm looking for post-doc and tenure track positions
 
 ## What's New
 
-- Dec 2023: Our paper, *A Curious Case of Retrogenesis in Language: Automated Analysis of Language Patterns Observed in Dementia Patients and Young Children*, is accepted at Neuroscience Informatics! [paper](10.1016/j.neuri.2023.100155)
-- Jan. 2023: Our paper, *TRESTLE: Toolkit for Reproducible Execution of Speech, Text and Language Experiments*, and one abstract *Investigating the Impact of Speech Recognition Errors on Subsequent Dementia Classification*, is accepted at American Medical Informatics Association (AMIA) Informatics Summit!
+- Jan. 2024: Our paper, *Useful blunders: Can automated speech recognition errors improve downstream dementia classification?*, is accepted by Journal of Biomedical Informatics! [paper](https://doi.org/10.1016/j.jbi.2024.104598) [preprint](
+https://doi.org/10.48550/arXiv.2401.05551) [code](https://github.com/LinguisticAnomalies/paradox-asr)
+- Dec 2023: Our paper, *A Curious Case of Retrogenesis in Language: Automated Analysis of Language Patterns Observed in Dementia Patients and Young Children*, is accepted by Neuroscience Informatics! [paper](10.1016/j.neuri.2023.100155)
+- Jan. 2023: Our paper, *TRESTLE: Toolkit for Reproducible Execution of Speech, Text and Language Experiments*, and one abstract *Investigating the Impact of Speech Recognition Errors on Subsequent Dementia Classification*, is accepted by American Medical Informatics Association (AMIA) Informatics Summit!
 - Jan. 2023: I'm happy to share that I join [Truveta](https://www.truveta.com/) as a Research Intern!
