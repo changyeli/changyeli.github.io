@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Changye Li"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Changye Li"
 description              : &description "personal description"
 url                      : https://changyeli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Changye Li"
-  avatar           : "avatar.jpeg"
+  avatar           : "avatar.jpg"
   bio              : "Ph.D student, Institute of Health Informatics, University of Minnesota"
   location         : "Minneapolis, MN"
   employer         :
