@@ -9,6 +9,6 @@ redirect_from:
 
 
 
-[CV, updated 1/2024](https://changyeli.github.io/files/cv_academic.pdf)
+[CV, updated 5/2024](https://changyeli.github.io/files/cv_academic.pdf)
 
 [resume, updated 11/2023](https://changyeli.github.io/files/resume.pdf)

@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm Changye Li, a Ph.D. candidate of the [Institute for Health Informatics](https://healthinformatics.umn.edu/), [University of Minnesota](https://twin-cities.umn.edu/). My research interests include developing NLP applications with behavioral and biomedical data. I'm particularly interested in the  **explainability** of NLP applications with biomedical/clinical and behavior data. I am very lucky to be advised by Professor [Serguei Pakhomov](https://www.pharmacy.umn.edu/bio/institute-of-personalized-medi/serguei-pakhomov).
+I'm Changye Li, a Ph.D. candidate at the Institute for Health Informatics, University of Minnesota. My research interests include better adapting and developing **natural language processing (NLP)** and **automatic speech recognition (ASR)** models with biomedical/clinical and behavioral data. I am very fortunate to be advised by Professor Serguei Pakhomov[Serguei Pakhomov](https://www.pharmacy.umn.edu/bio/institute-of-personalized-medi/serguei-pakhomov).
 
 I'm on job market this year! I'm looking for post-doc and tenure track positions!
 
 ## What's New
+
+- May 2024: Happy to share that I have successfully defended my PhD thesis!
 
 - Jan. 2024: Our paper, *Useful blunders: Can automated speech recognition errors improve downstream dementia classification?*, is accepted by Journal of Biomedical Informatics! [paper](https://doi.org/10.1016/j.jbi.2024.104598) [preprint](
 https://doi.org/10.48550/arXiv.2401.05551) [code](https://github.com/LinguisticAnomalies/paradox-asr)
