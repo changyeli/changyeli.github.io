@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Changye Li, a Ph.D. candidate at the Institute for Health Informatics, University of Minnesota. My research interests include better adapting and developing **natural language processing (NLP)** and **automatic speech recognition (ASR)** models with biomedical/clinical and behavioral data. I am very fortunate to be advised by Professor Serguei Pakhomov[Serguei Pakhomov](https://www.pharmacy.umn.edu/bio/institute-of-personalized-medi/serguei-pakhomov).
+I'm Changye Li, a Ph.D. candidate at the Institute for Health Informatics, University of Minnesota. My research interests include better adapting and developing **natural language processing (NLP)** and **automatic speech recognition (ASR)** models with biomedical/clinical and behavioral data. I am very fortunate to be advised by Professor [Serguei Pakhomov](https://www.pharmacy.umn.edu/bio/institute-of-personalized-medi/serguei-pakhomov).
 
 I'm on job market this year! I'm looking for post-doc and tenure track positions!
 
