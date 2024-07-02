@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Changye Li"
   avatar           : "avatar.jpg"
-  bio              : "Ph.D student, Institute of Health Informatics, University of Minnesota"
-  location         : "Minneapolis, MN"
+  bio              : "Postdoctoral Scholar at Universty of Washingtom"
+  location         : "Seattle, WA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=YK4Z9jMAAAAJ&hl=en&authuser=2"
@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 # Defaults
@@ -208,7 +208,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

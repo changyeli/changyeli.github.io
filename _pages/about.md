@@ -10,6 +10,8 @@ redirect_from:
 
 I'm Changye Li, a Postdoctoral Scholar in the Department of Biomedical Informatics and Medical Education at the University of Washington, under Prof. [Trevor Cohen](https://bime.uw.edu/faculty/trevor-cohen/). My research interests include better adapting and developing **natural language processing (NLP)** and **automatic speech recognition (ASR)** models with biomedical/clinical and behavioral data. I recently obtained my Ph.D. in Health Informatics from the University of Minnesota, where I was very fortunate to be advised by Professor [Serguei Pakhomov](https://www.pharmacy.umn.edu/bio/institute-of-personalized-medi/serguei-pakhomov).
 
+You can find my CV [here](https://changyeli.github.io/files/cv_academic.pdf).
+
 
 
 ## What's New
