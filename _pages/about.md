@@ -16,6 +16,7 @@ You can find my CV [here](https://changyeli.github.io/files/cv_academic.pdf).
 
 ## What's New
 
+- Sep. 2024: Happy to share that I have been selected as [UW Data Science Postdoctoral Fellow](https://escience.washington.edu/people/postdoctoral-fellows/).
 - Jun. 2024: Happy to share that I'm starting a new position as Postdoctoral Scholar at the University of Washington.
 - Jun. 2024: Our paper, *Too Big to Fail: Larger Language Models are Disproportionately Resilient to Induction of Dementia-Related Linguistic Anomalies*, is accepted by ACL 2024 findings! [preprint](https://arxiv.org/abs/2406.02830) [code](https://github.com/LinguisticAnomalies/artificial-neural-reserve)
 - May 2024: Happy to share that I have successfully defended my PhD thesis!
