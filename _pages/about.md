@@ -16,6 +16,8 @@ You can find my CV [here](https://changyeli.github.io/files/cv_academic.pdf).
 
 ## What's New
 
+- March. 2025: Our paper, *Bigger But Not Better: Small Neural Language Models Outperform Large Language Models in Detection of Thought Disorder*, is accepted by the 10th Workshop on Computational Linguistics and Clinical Psychology, co-located at NAACL 2025! [preprint](https://arxiv.org/abs/2503.20103) [code](https://github.com/LinguisticAnomalies/small-lm-sliding-windows)
+- March. 2025: Our paper *" Is There Anything Else?'': Examining Administrator Influence on Linguistic Features from the Cookie Theft Picture Description Cognitive Test*, is accepted by The 14th Workshop on Cognitive Modeling and Computational Linguistics, co-located at NAACL 2025! [preprint](https://arxiv.org/abs/2503.20104) [code](https://github.com/LinguisticAnomalies/turns)
 - Sep. 2024: Happy to share that I have been selected as [UW Data Science Postdoctoral Fellow](https://escience.washington.edu/people/postdoctoral-fellows/).
 - Jun. 2024: Happy to share that I'm starting a new position as Postdoctoral Scholar at the University of Washington.
 - Jun. 2024: Our paper, *Too Big to Fail: Larger Language Models are Disproportionately Resilient to Induction of Dementia-Related Linguistic Anomalies*, is accepted by ACL 2024 findings! [preprint](https://arxiv.org/abs/2406.02830) [code](https://github.com/LinguisticAnomalies/artificial-neural-reserve)
